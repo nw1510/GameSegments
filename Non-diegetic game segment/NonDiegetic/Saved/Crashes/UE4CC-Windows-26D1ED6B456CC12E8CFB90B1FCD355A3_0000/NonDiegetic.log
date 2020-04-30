@@ -1,0 +1,1351 @@
+﻿Log file open, 04/30/20 10:37:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: NonDiegetic
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.490241
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz, GPU: AMD Radeon R9 200 Series
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Unreal Engine/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.30-09.37.36:630][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.30-09.37.36:630][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.30-09.37.36:644][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Config/Windows/Engine.ini]
+[2020.04.30-09.37.36:644][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.30-09.37.36:644][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Config/Windows/Engine.ini]
+[2020.04.30-09.37.36:644][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Config/Windows/Engine.ini]
+[2020.04.30-09.37.36:645][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.30-09.37.36:645][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.30-09.37.36:645][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.30-09.37.36:645][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.30-09.37.36:645][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.30-09.37.36:645][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.30-09.37.36:645][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.30-09.37.36:645][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.30-09.37.36:645][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.30-09.37.36:645][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.30-09.37.36:645][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.30-09.37.36:645][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.30-09.37.36:645][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.30-09.37.36:645][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Config/Windows/Engine.ini]
+[2020.04.30-09.37.36:645][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.30-09.37.36:645][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.30-09.37.36:645][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.30-09.37.36:646][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.30-09.37.36:646][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.30-09.37.36:646][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.30-09.37.36:646][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.30-09.37.36:646][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.30-09.37.36:646][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.30-09.37.36:646][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.30-09.37.36:646][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.30-09.37.36:646][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.30-09.37.36:646][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.30-09.37.36:646][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Config/Windows/Engine.ini]
+[2020.04.30-09.37.36:646][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Config/Windows/Engine.ini]
+[2020.04.30-09.37.36:757][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.37.36:757][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.30-09.37.36:757][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.30-09.37.36:757][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.37.36:757][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.30-09.37.36:757][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.37.36:757][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.30-09.37.36:757][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.30-09.37.36:757][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.30-09.37.36:757][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.30-09.37.36:757][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.30-09.37.36:757][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.30-09.37.36:758][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.30-09.37.36:758][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.30-09.37.36:758][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.30-09.37.36:758][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.30-09.37.36:758][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.30-09.37.36:758][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.30-09.37.36:758][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.30-09.37.36:758][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.30-09.37.36:758][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.30-09.37.36:758][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.30-09.37.36:758][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.30-09.37.36:758][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.30-09.37.36:758][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.37.36:758][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.30-09.37.36:758][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.30-09.37.36:758][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.30-09.37.36:758][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.30-09.37.36:758][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.30-09.37.36:758][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.30-09.37.36:758][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.30-09.37.36:759][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.30-09.37.36:759][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.30-09.37.36:759][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.30-09.37.36:759][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.30-09.37.36:759][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.30-09.37.36:759][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.30-09.37.36:759][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.30-09.37.36:759][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.30-09.37.36:759][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.30-09.37.36:759][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.30-09.37.36:759][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.30-09.37.36:759][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.30-09.37.36:759][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.30-09.37.36:759][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.30-09.37.36:759][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.30-09.37.36:759][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.30-09.37.36:759][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.30-09.37.36:759][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.30-09.37.36:759][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.30-09.37.36:760][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.30-09.37.36:760][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.30-09.37.36:760][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.30-09.37.36:760][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.30-09.37.36:760][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.37.36:760][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.30-09.37.36:760][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.30-09.37.36:760][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.30-09.37.36:760][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.30-09.37.36:760][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.30-09.37.36:760][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.30-09.37.36:760][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.30-09.37.36:760][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.30-09.37.36:760][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.37.36:760][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.30-09.37.36:760][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.30-09.37.36:760][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.30-09.37.36:760][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.30-09.37.36:760][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.30-09.37.36:761][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.30-09.37.36:761][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.30-09.37.36:761][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.30-09.37.36:761][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.30-09.37.36:761][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.30-09.37.36:761][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.30-09.37.36:761][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.30-09.37.36:761][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.30-09.37.36:761][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.37.36:761][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.30-09.37.36:761][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.30-09.37.36:766][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.30-09.37.36:767][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.30-09.37.36:892][  0]LogHAL: Display: Platform has ~ 8 GB [8481812480 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.30-09.37.36:892][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.30-09.37.36:895][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.37.36:895][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.30-09.37.36:895][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.30-09.37.36:895][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.37.36:895][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.30-09.37.36:895][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.37.36:895][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.30-09.37.36:895][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.30-09.37.36:895][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.30-09.37.36:895][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.30-09.37.36:895][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.30-09.37.36:896][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.30-09.37.36:896][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.30-09.37.36:896][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.30-09.37.36:896][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.30-09.37.36:896][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.30-09.37.36:896][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.30-09.37.36:896][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.30-09.37.36:896][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.30-09.37.36:896][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.30-09.37.36:896][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.30-09.37.36:896][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.30-09.37.36:896][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.30-09.37.36:896][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.30-09.37.36:896][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.37.36:896][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.30-09.37.36:896][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.30-09.37.36:896][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.30-09.37.36:896][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.30-09.37.36:896][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.30-09.37.36:897][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.30-09.37.36:897][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.30-09.37.36:897][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.30-09.37.36:897][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.30-09.37.36:897][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.30-09.37.36:897][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.30-09.37.36:897][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.30-09.37.36:897][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.30-09.37.36:897][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.30-09.37.36:897][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.30-09.37.36:897][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.30-09.37.36:897][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.30-09.37.36:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.30-09.37.36:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.30-09.37.36:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.30-09.37.36:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.30-09.37.36:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.30-09.37.36:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.30-09.37.36:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.30-09.37.36:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.30-09.37.36:898][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.30-09.37.36:898][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.30-09.37.36:898][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.30-09.37.36:898][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.30-09.37.36:898][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.30-09.37.36:898][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.37.36:898][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.30-09.37.36:898][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.30-09.37.36:898][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.30-09.37.36:898][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.30-09.37.36:898][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.30-09.37.36:898][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.30-09.37.36:898][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.30-09.37.36:898][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.30-09.37.36:898][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.37.36:898][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.30-09.37.36:898][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.30-09.37.36:898][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.30-09.37.36:898][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.30-09.37.36:899][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.30-09.37.36:899][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.30-09.37.36:899][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.30-09.37.36:899][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.30-09.37.36:899][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.30-09.37.36:899][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.30-09.37.36:899][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.30-09.37.36:899][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.30-09.37.36:899][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.30-09.37.36:899][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.37.36:899][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.30-09.37.36:899][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.30-09.37.36:899][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.30-09.37.36:926][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.30-09.37.36:926][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.30-09.37.36:926][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Config/Windows/Engine.ini]
+[2020.04.30-09.37.36:934][  0]LogInit: Computer: NATHAN-PC
+[2020.04.30-09.37.36:934][  0]LogInit: User: Nathan
+[2020.04.30-09.37.36:934][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.30-09.37.36:934][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.30-09.37.36:939][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.04.30-09.37.36:947][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.30-09.37.36:947][  0]LogMemory: Process Physical Memory: 101.79 MB used, 101.80 MB peak
+[2020.04.30-09.37.36:947][  0]LogMemory: Process Virtual Memory: 98.54 MB used, 98.54 MB peak
+[2020.04.30-09.37.36:947][  0]LogMemory: Physical Memory: 5249.17 MB used,  2839.71 MB free, 8088.89 MB total
+[2020.04.30-09.37.36:947][  0]LogMemory: Virtual Memory: 4654.02 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.04.30-09.37.36:988][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.30-09.37.38:409][  0]LogInit: Using OS detected language (en-GB).
+[2020.04.30-09.37.38:409][  0]LogInit: Using OS detected locale (en-GB).
+[2020.04.30-09.37.38:577][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.04.30-09.37.39:823][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.30-09.37.40:791][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.30-09.37.40:791][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.30-09.37.42:291][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.30-09.37.42:291][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.30-09.37.42:365][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2020.04.30-09.37.42:365][  0]LogD3D11RHI:       2028/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.04.30-09.37.42:412][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2020.04.30-09.37.42:412][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.04.30-09.37.42:416][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.30-09.37.42:416][  0]LogD3D11RHI:       0/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.30-09.37.42:416][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.30-09.37.42:684][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.30-09.37.42:684][  0]LogD3D11RHI:     GPU DeviceId: 0x6810 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.30-09.37.42:693][  0]LogWindows: EnumDisplayDevices:
+[2020.04.30-09.37.42:693][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2020.04.30-09.37.42:695][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2020.04.30-09.37.42:696][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2020.04.30-09.37.42:698][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2020.04.30-09.37.42:699][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2020.04.30-09.37.42:701][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2020.04.30-09.37.42:702][  0]LogWindows:    6. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2020.04.30-09.37.42:704][  0]LogWindows:    7. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2020.04.30-09.37.42:706][  0]LogWindows:    8. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2020.04.30-09.37.42:707][  0]LogWindows:    9. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2020.04.30-09.37.42:708][  0]LogWindows:    10. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2020.04.30-09.37.42:708][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:8 
+[2020.04.30-09.37.42:708][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2020.04.30-09.37.42:710][  0]LogD3D11RHI:   Driver Version: Adrenalin 19.20 (internal:26.20.12028.2, unified:26.20.12028.2)
+[2020.04.30-09.37.42:710][  0]LogD3D11RHI:      Driver Date: 8-16-2019
+[2020.04.30-09.37.42:710][  0]LogRHI: Texture pool is 1419 MB (70% of 2028 MB)
+[2020.04.30-09.37.42:987][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.30-09.37.43:324][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2020.04.30-09.37.44:575][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.30-09.37.44:625][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.30-09.37.44:661][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.30-09.37.44:692][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.30-09.37.44:851][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.30-09.37.44:904][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.30-09.37.44:924][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.30-09.37.44:946][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.30-09.37.44:957][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.30-09.37.45:115][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.30-09.37.45:115][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.30-09.37.45:115][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.30-09.37.45:115][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.30-09.37.45:115][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.30-09.37.45:116][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.30-09.37.45:116][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.30-09.37.45:116][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.30-09.37.45:116][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.30-09.37.45:116][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.30-09.37.45:116][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.30-09.37.45:116][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.30-09.37.45:116][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.30-09.37.45:116][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.30-09.37.45:116][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.30-09.37.45:116][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.30-09.37.45:116][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.30-09.37.45:116][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.30-09.37.45:131][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.30-09.37.45:291][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.30-09.37.45:291][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.30-09.37.45:348][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.30-09.37.45:348][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.30-09.37.45:417][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.30-09.37.45:454][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.30-09.37.45:512][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.30-09.37.45:587][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.30-09.37.45:663][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.30-09.37.45:664][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.30-09.37.45:664][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.30-09.37.45:955][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.30-09.37.47:003][  0]LogShaderCompilers: Guid format shader working directory is -51 characters bigger than the processId version (../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Intermediate/Shaders/WorkingDirectory/15968/).
+[2020.04.30-09.37.47:004][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nathan.Nathan-PC/AppData/Local/Temp/UnrealShaderWorkingDir/286BECC24999AF15DA2FD6AA6AD7FDF3/'.
+[2020.04.30-09.37.47:090][  0]LogXGEController: Cleaning working directory: C:/Users/Nathan.Nathan-PC/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.30-09.37.47:092][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.30-09.37.47:093][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.30-09.37.47:093][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.30-09.37.50:020][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.30-09.37.50:573][  0]LogDerivedDataCache: Loaded boot cache 0.55s 73MB C:/Users/Nathan.Nathan-PC/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.30-09.37.50:573][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Nathan.Nathan-PC/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.04.30-09.37.50:573][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.30-09.37.50:573][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.30-09.37.50:573][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.30-09.37.50:573][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.30-09.37.50:627][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.30-09.37.50:627][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.30-09.37.50:627][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.30-09.37.50:631][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nathan.Nathan-PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.30-09.37.50:631][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.30-09.37.50:631][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.30-09.37.50:775][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.30-09.37.50:863][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.30-09.37.51:065][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.30-09.37.53:265][  0]LogAssetRegistry: FAssetRegistry took 0.0236 seconds to start up
+[2020.04.30-09.38.03:085][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.30-09.38.07:602][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.30-09.38.07:602][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.30-09.38.07:602][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.30-09.38.07:602][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.30-09.38.07:604][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.30-09.38.08:431][  0]LogNetVersion: NonDiegetic 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3463998418)
+[2020.04.30-09.38.14:099][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.540774 seconds
+[2020.04.30-09.38.14:148][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.04.30-09.38.14:148][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.04.30-09.38.14:148][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.30-09.38.33:441][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.30-09.38.33:561][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.30-09.38.34:607][  0]SourceControl: Source control is disabled
+[2020.04.30-09.38.34:620][  0]SourceControl: Source control is disabled
+[2020.04.30-09.38.34:871][  0]SourceControl: Source control is disabled
+[2020.04.30-09.38.34:919][  0]SourceControl: Source control is disabled
+[2020.04.30-09.38.36:890][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.30-09.38.38:102][  0]LogOcInput: OculusInput pre-init called
+[2020.04.30-09.38.38:266][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.30-09.38.38:266][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.30-09.38.40:462][  0]LogEngine: Initializing Engine...
+[2020.04.30-09.38.40:518][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.30-09.38.40:733][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.061 s
+[2020.04.30-09.38.41:806][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.30-09.38.42:522][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.30-09.38.42:991][  0]LogInit: XAudio2 using 'Headphones (Arctis 5 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.30-09.38.43:177][  0]LogInit: FAudioDevice initialized.
+[2020.04.30-09.38.43:179][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.30-09.38.43:367][  0]LogDerivedDataCache: Saved boot cache 0.19s 73MB C:/Users/Nathan.Nathan-PC/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.30-09.38.43:370][  0]LogInit: Texture streaming: Enabled
+[2020.04.30-09.38.43:686][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.30-09.38.43:688][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.30-09.38.43:691][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.30-09.38.44:494][  0]LogInit: Transaction tracking system initialized
+[2020.04.30-09.38.45:182][  0]BlueprintLog: New page: Editor Load
+[2020.04.30-09.38.46:959][  0]LocalizationService: Localization service is disabled
+[2020.04.30-09.38.51:912][  0]LogFileCache: Scanning file cache for directory 'E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Content/' took 0.08s
+[2020.04.30-09.38.51:912][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.30-09.38.51:913][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.30-09.39.00:725][  0]SourceControl: Source control is disabled
+[2020.04.30-09.39.00:826][  0]LightingResults: New page: Lighting Build
+[2020.04.30-09.39.01:069][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-09.39.01:227][  0]MapCheck: New page: Map Check
+[2020.04.30-09.39.01:227][  0]LightingResults: New page: Lighting Build
+[2020.04.30-09.39.01:670][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.04.30-09.39.09:771][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.30-09.39.10:919][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.30-09.39.11:324][  0]LogUObjectHash: Compacting FUObjectHashTables data took  10.12ms
+[2020.04.30-09.39.11:366][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.30-09.39.11:369][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.953ms to complete.
+[2020.04.30-09.39.11:369][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 10.619
+[2020.04.30-09.39.14:128][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-09.39.14:170][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-09.39.14:190][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-09.39.14:207][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-09.39.14:574][  0]LogCollectionManager: Loaded 0 collections in 0.007427 seconds
+[2020.04.30-09.39.14:879][  0]LogFileCache: Scanning file cache for directory 'E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Collections/' took 0.00s
+[2020.04.30-09.39.14:880][  0]LogFileCache: Scanning file cache for directory 'E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Content/Developers/Nathan/Collections/' took 0.00s
+[2020.04.30-09.39.14:880][  0]LogFileCache: Scanning file cache for directory 'E:/Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Content/Collections/' took 0.00s
+[2020.04.30-09.39.14:880][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000005 seconds
+[2020.04.30-09.39.14:923][  0]LogContentBrowser: Native class hierarchy populated in 0.0329 seconds. Added 2863 classes and 680 folders.
+[2020.04.30-09.39.15:153][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.30-09.39.16:094][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.30-09.39.16:182][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.04.30-09.39.17:080][  0]LogSlate: Took 0.056526 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.30-09.39.17:147][  0]LogSlate: Took 0.049156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.30-09.39.17:284][  0]LogSlate: Took 0.032430 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.30-09.39.18:149][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.04.30-09.39.18:583][  0]LogRenderer: Reallocating scene render targets to support 1208x672 Format 10 NumSamples 1 (Frame:1).
+[2020.04.30-09.39.19:325][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.30-09.39.19:326][  0]LogLoad: (Engine Initialization) Total time: 132.67 seconds
+[2020.04.30-09.39.19:326][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.30-09.39.19:944][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.30-09.39.20:472][  0]LogSlate: Took 0.028787 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.30-09.39.23:196][ 25]LogAssetRegistry: Asset discovery search completed in 89.9384 seconds
+[2020.04.30-09.39.23:250][ 25]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.015646 seconds (found 0 objects)
+[2020.04.30-09.39.23:250][ 25]LogCollectionManager: Fixed up redirectors for 0 collections in 0.015778 seconds (updated 0 objects)
+[2020.04.30-09.39.26:005][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-09.39.41:567][952]LogSlate: Took 0.000631 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.30-09.39.41:840][952]LogAssetTools: Warning: Failed to import 'E:\Test\Content\Mannequin\Animations/ThirdPersonIdle.uasset'. Unknown extension 'uasset'.
+[2020.04.30-09.39.41:883][952]LogAssetTools: Warning: Failed to import 'E:\Test\Content\Mannequin\Animations/ThirdPersonJump_End.uasset'. Unknown extension 'uasset'.
+[2020.04.30-09.39.41:910][952]LogAssetTools: Warning: Failed to import 'E:\Test\Content\Mannequin\Animations/ThirdPersonJump_Loop.uasset'. Unknown extension 'uasset'.
+[2020.04.30-09.39.41:934][952]LogAssetTools: Warning: Failed to import 'E:\Test\Content\Mannequin\Animations/ThirdPersonJump_Start.uasset'. Unknown extension 'uasset'.
+[2020.04.30-09.39.41:950][952]LogAssetTools: Warning: Failed to import 'E:\Test\Content\Mannequin\Animations/ThirdPersonRun.uasset'. Unknown extension 'uasset'.
+[2020.04.30-09.39.41:967][952]LogAssetTools: Warning: Failed to import 'E:\Test\Content\Mannequin\Animations/ThirdPersonWalk.uasset'. Unknown extension 'uasset'.
+[2020.04.30-09.39.41:984][952]LogAssetTools: Warning: Failed to import 'E:\Test\Content\Mannequin\Animations/ThirdPerson_AnimBP.uasset'. Unknown extension 'uasset'.
+[2020.04.30-09.39.42:003][952]LogAssetTools: Warning: Failed to import 'E:\Test\Content\Mannequin\Animations/ThirdPerson_IdleRun_2D.uasset'. Unknown extension 'uasset'.
+[2020.04.30-09.39.42:022][952]LogAssetTools: Warning: Failed to import 'E:\Test\Content\Mannequin\Animations/ThirdPerson_Jump.uasset'. Unknown extension 'uasset'.
+[2020.04.30-09.39.51:318][ 33]LogAssetTools: Warning: Failed to import 'E:\Test\Content\Mannequin\Animations\ThirdPersonIdle.uasset'. Unknown extension 'uasset'.
+[2020.04.30-09.39.51:323][ 33]LogAssetTools: Warning: Failed to import 'E:\Test\Content\Mannequin\Animations\ThirdPersonJump_End.uasset'. Unknown extension 'uasset'.
+[2020.04.30-09.39.51:329][ 33]LogAssetTools: Warning: Failed to import 'E:\Test\Content\Mannequin\Animations\ThirdPersonJump_Loop.uasset'. Unknown extension 'uasset'.
+[2020.04.30-09.39.51:339][ 33]LogAssetTools: Warning: Failed to import 'E:\Test\Content\Mannequin\Animations\ThirdPersonJump_Start.uasset'. Unknown extension 'uasset'.
+[2020.04.30-09.39.51:350][ 33]LogAssetTools: Warning: Failed to import 'E:\Test\Content\Mannequin\Animations\ThirdPersonRun.uasset'. Unknown extension 'uasset'.
+[2020.04.30-09.39.51:360][ 33]LogAssetTools: Warning: Failed to import 'E:\Test\Content\Mannequin\Animations\ThirdPersonWalk.uasset'. Unknown extension 'uasset'.
+[2020.04.30-09.39.51:373][ 33]LogAssetTools: Warning: Failed to import 'E:\Test\Content\Mannequin\Animations\ThirdPerson_AnimBP.uasset'. Unknown extension 'uasset'.
+[2020.04.30-09.39.51:385][ 33]LogAssetTools: Warning: Failed to import 'E:\Test\Content\Mannequin\Animations\ThirdPerson_IdleRun_2D.uasset'. Unknown extension 'uasset'.
+[2020.04.30-09.39.51:398][ 33]LogAssetTools: Warning: Failed to import 'E:\Test\Content\Mannequin\Animations\ThirdPerson_Jump.uasset'. Unknown extension 'uasset'.
+[2020.04.30-09.40.42:833][ 53]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={2E11896D-43E3-DDEB-6742-059673B0C663}
+[2020.04.30-09.42.33:758][  1]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.04.30-09.42.48:115][976]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Enemies/Enemy_BP.Enemy_BP
+[2020.04.30-09.42.49:398][976]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0018 seconds. Added 121 classes and 0 folders.
+[2020.04.30-09.42.52:528][976]LogSlate: Took 0.040628 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.30-09.42.53:710][977]LogSlate: Took 0.015754 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.30-09.42.55:664][101]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2020.04.30-09.43.15:863][ 33]BlueprintLog: New page: Compile Enemy_BP
+[2020.04.30-09.43.17:162][ 33]LogUObjectHash: Compacting FUObjectHashTables data took  11.49ms
+[2020.04.30-09.43.20:012][196]LogSlate: Window 'Enemy_BP' being destroyed
+[2020.04.30-09.43.20:020][196]LogSlate: Window 'Enemy_BP' being destroyed
+[2020.04.30-09.43.20:037][196]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-09.49.19:934][764]LogUObjectHash: Compacting FUObjectHashTables data took  17.80ms
+[2020.04.30-09.49.21:482][764]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/ThirdPersonExampleMap_Auto1AEE164DE4EB57E50618272ADAB4836A6.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.04.30-09.49.21:742][764]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.944
+[2020.04.30-09.49.21:742][764]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.944
+[2020.04.30-09.49.21:756][764]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/Enemy_BP] ([1] browsable assets)...
+[2020.04.30-09.49.21:827][764]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Enemy_BP.Enemy_BP]
+[2020.04.30-09.49.21:827][764]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Enemy_BP]
+[2020.04.30-09.49.22:157][764]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Enemy_BP_Auto18FB7F673406A28EE18B55590F026C2BF.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Autosaves/Game/Enemies/Enemy_BP_Auto1.uasset'
+[2020.04.30-09.49.22:205][764]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Animations/EnemyAnim_BP] ([1] browsable assets)...
+[2020.04.30-09.49.22:257][764]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ThirdPersonBP/Animations/EnemyAnim_BP.EnemyAnim_BP]
+[2020.04.30-09.49.22:257][764]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Animations/EnemyAnim_BP]
+[2020.04.30-09.49.22:711][764]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/EnemyAnim_BP_Auto18D8A95374A4D3D53EF163B9942DE27C5.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Autosaves/Game/ThirdPersonBP/Animations/EnemyAnim_BP_Auto1.uasset'
+[2020.04.30-09.49.22:714][764]LogFileHelpers: Auto-saving content packages took 0.958
+[2020.04.30-09.49.35:262][981]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Uni Stuff\Final Year Project\Games and Game Design Doc\FPSAssets\Zombie\Zombie Walking.fbx)
+[2020.04.30-09.49.35:563][981]LogFbx: Loading FBX Scene from E:\Uni Stuff\Final Year Project\Games and Game Design Doc\FPSAssets\Zombie\Zombie Walking.fbx
+[2020.04.30-09.49.35:646][981]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.30-09.49.42:268][981]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.30-09.49.42:495][981]FBXImport: Error: Mesh contains root bone as root but animation doesn't contain the root track.
+Import failed. 
+[2020.04.30-09.49.42:495][981]FBXImport: Error: Import failed. 
+[2020.04.30-09.49.45:336][981]LogSlate: Window 'Message' being destroyed
+[2020.04.30-09.49.45:366][981]LogAssetTools: Warning: Failed to import 'E:\Uni Stuff\Final Year Project\Games and Game Design Doc\FPSAssets\Zombie\Zombie Walking.fbx'. Failed to create asset '/Game/Enemies/Animations/Zombie_Walking'.
+Please see Output Log for details.
+[2020.04.30-09.49.45:404][981]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\Uni Stuff\Final Year Project\Games and Game Design Doc\FPSAssets\Zombie\Zombie Attack.fbx)
+[2020.04.30-09.49.45:436][981]LogFbx: Loading FBX Scene from E:\Uni Stuff\Final Year Project\Games and Game Design Doc\FPSAssets\Zombie\Zombie Attack.fbx
+[2020.04.30-09.49.45:498][981]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.30-09.49.45:514][981]FBXImport: Error: Mesh contains root bone as root but animation doesn't contain the root track.
+Import failed. 
+[2020.04.30-09.49.45:515][981]FBXImport: Error: Import failed. 
+[2020.04.30-09.49.46:087][981]LogSlate: Window 'Message' being destroyed
+[2020.04.30-09.49.46:092][981]LogAssetTools: Warning: Failed to import 'E:\Uni Stuff\Final Year Project\Games and Game Design Doc\FPSAssets\Zombie\Zombie Attack.fbx'. Failed to create asset '/Game/Enemies/Animations/Zombie_Attack'.
+Please see Output Log for details.
+[2020.04.30-09.49.46:160][981]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\Uni Stuff\Final Year Project\Games and Game Design Doc\FPSAssets\Zombie\Zombie Idle.fbx)
+[2020.04.30-09.49.46:197][981]LogFbx: Loading FBX Scene from E:\Uni Stuff\Final Year Project\Games and Game Design Doc\FPSAssets\Zombie\Zombie Idle.fbx
+[2020.04.30-09.49.46:246][981]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.30-09.49.46:258][981]FBXImport: Error: Mesh contains root bone as root but animation doesn't contain the root track.
+Import failed. 
+[2020.04.30-09.49.46:258][981]FBXImport: Error: Import failed. 
+[2020.04.30-09.49.46:729][981]LogSlate: Window 'Message' being destroyed
+[2020.04.30-09.49.46:734][981]LogAssetTools: Warning: Failed to import 'E:\Uni Stuff\Final Year Project\Games and Game Design Doc\FPSAssets\Zombie\Zombie Idle.fbx'. Failed to create asset '/Game/Enemies/Animations/Zombie_Idle'.
+Please see Output Log for details.
+[2020.04.30-09.49.46:762][981]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\Uni Stuff\Final Year Project\Games and Game Design Doc\FPSAssets\Zombie\Zombie Running.fbx)
+[2020.04.30-09.49.46:772][981]LogFbx: Loading FBX Scene from E:\Uni Stuff\Final Year Project\Games and Game Design Doc\FPSAssets\Zombie\Zombie Running.fbx
+[2020.04.30-09.49.46:797][981]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.30-09.49.46:805][981]FBXImport: Error: Mesh contains root bone as root but animation doesn't contain the root track.
+Import failed. 
+[2020.04.30-09.49.46:805][981]FBXImport: Error: Import failed. 
+[2020.04.30-09.49.47:393][981]LogSlate: Window 'Message' being destroyed
+[2020.04.30-09.49.47:398][981]LogAssetTools: Warning: Failed to import 'E:\Uni Stuff\Final Year Project\Games and Game Design Doc\FPSAssets\Zombie\Zombie Running.fbx'. Failed to create asset '/Game/Enemies/Animations/Zombie_Running'.
+Please see Output Log for details.
+[2020.04.30-09.49.51:014][259]LogSlate: Window 'Message Log' being destroyed
+[2020.04.30-09.49.51:020][259]LogSlate: Window 'Message Log' being destroyed
+[2020.04.30-09.50.10:517][444]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Uni Stuff\Final Year Project\Games and Game Design Doc\FPSAssets\Zombie\Zombie_Character.fbx)
+[2020.04.30-09.50.10:585][444]LogFbx: Loading FBX Scene from E:\Uni Stuff\Final Year Project\Games and Game Design Doc\FPSAssets\Zombie\Zombie_Character.fbx
+[2020.04.30-09.50.11:322][444]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.30-09.50.11:330][444]FBXImport: Warning: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'glass_hair_M' was rename 'glass_hair_M_ncl1_1' 
+[2020.04.30-09.50.22:537][444]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.30-09.50.22:652][444]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Glass : The relative matrices do not match
+[2020.04.30-09.50.22:652][444]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node FuzZombie : The relative matrices do not match
+[2020.04.30-09.50.22:652][444]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Hair : The relative matrices do not match
+[2020.04.30-09.50.22:652][444]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Eyes : The relative matrices do not match
+[2020.04.30-09.50.22:653][444]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Glass : The relative matrices do not match
+[2020.04.30-09.50.22:653][444]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node FuzZombie : The relative matrices do not match
+[2020.04.30-09.50.22:654][444]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Hair : The relative matrices do not match
+[2020.04.30-09.50.22:654][444]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Eyes : The relative matrices do not match
+[2020.04.30-09.50.22:654][444]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Glass : The relative matrices do not match
+[2020.04.30-09.50.22:654][444]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node FuzZombie : The relative matrices do not match
+[2020.04.30-09.50.22:654][444]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2020.04.30-09.50.22:655][444]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyes : The relative matrices do not match
+[2020.04.30-09.50.22:655][444]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Glass : The relative matrices do not match
+[2020.04.30-09.50.22:655][444]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node FuzZombie : The relative matrices do not match
+[2020.04.30-09.50.22:655][444]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2020.04.30-09.50.22:655][444]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyes : The relative matrices do not match
+[2020.04.30-09.50.22:655][444]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2020.04.30-09.50.22:656][444]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Glass
+[2020.04.30-09.50.22:656][444]LogFbx: Warning: Recreating bind pose succeeded.
+[2020.04.30-09.50.25:289][444]LogMaterial: Display: Material /Game/Enemies/Animations/glass_hair_M.glass_hair_M needed to have new flag set bUsedWithSkeletalMesh !
+[2020.04.30-09.50.25:309][444]LogMaterial: Display: Missing cached shader map for material glass_hair_M, compiling. 
+[2020.04.30-09.50.25:657][444]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2020.04.30-09.50.25:657][444]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2020.04.30-09.50.25:657][444]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2020.04.30-09.50.25:688][444]LogLinker: Failed to load '/Game/Enemies/Animations/FuzZombie__diffuse': Can't find file.
+[2020.04.30-09.50.25:688][444]LogLinker: Failed to load '/Game/Enemies/Animations/FuzZombie__diffuse': Can't find file.
+[2020.04.30-09.50.25:989][444]LogTexture: Display: Building textures: FuzZombie__diffuse (AutoDXT, 2048X2048)
+[2020.04.30-09.50.31:519][444]LogLinker: Failed to load '/Game/Enemies/Animations/FuzZombie__specular': Can't find file.
+[2020.04.30-09.50.31:520][444]LogLinker: Failed to load '/Game/Enemies/Animations/FuzZombie__specular': Can't find file.
+[2020.04.30-09.50.31:668][444]LogTexture: Display: Building textures: FuzZombie__specular (AutoDXT, 2048X2048)
+[2020.04.30-09.50.36:476][444]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2020.04.30-09.50.36:476][444]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2020.04.30-09.50.36:476][444]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.04.30-09.50.36:476][444]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.04.30-09.50.36:596][444]LogLinker: Failed to load '/Game/Enemies/Animations/FuzZombie__normal': Can't find file.
+[2020.04.30-09.50.36:596][444]LogLinker: Failed to load '/Game/Enemies/Animations/FuzZombie__normal': Can't find file.
+[2020.04.30-09.50.36:766][444]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.04.30-09.50.36:766][444]LogTexture: Display: Building textures: FuzZombie__normal (BC5, 2048X2048)
+[2020.04.30-09.50.37:528][444]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.04.30-09.50.37:528][444]LogTexture: Display: Building textures: FuzZombie__diffuse (AutoDXT, 2048X2048)
+[2020.04.30-09.50.42:889][444]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.04.30-09.50.42:929][444]LogMaterial: Display: Missing cached shader map for material glass_hair_M, compiling. 
+[2020.04.30-09.50.43:103][444]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 114
+[2020.04.30-09.50.43:103][444]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 104
+[2020.04.30-09.50.43:103][444]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 94
+[2020.04.30-09.50.43:103][444]LogMaterial: Display: Material /Game/Enemies/Animations/body_M.body_M needed to have new flag set bUsedWithSkeletalMesh !
+[2020.04.30-09.50.43:117][444]LogMaterial: Display: Missing cached shader map for material body_M, compiling. 
+[2020.04.30-09.50.43:371][444]LogTexture: Display: Building textures: FuzZombie__diffuse (AutoDXT, 2048X2048)
+[2020.04.30-09.50.48:841][444]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 144
+[2020.04.30-09.50.49:099][444]LogTexture: Display: Building textures: FuzZombie__specular (AutoDXT, 2048X2048)
+[2020.04.30-09.50.53:926][444]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 134
+[2020.04.30-09.50.53:926][444]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 124
+[2020.04.30-09.50.53:926][444]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 114
+[2020.04.30-09.50.53:926][444]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 104
+[2020.04.30-09.50.53:953][444]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for FuzZombie__normal
+[2020.04.30-09.50.54:159][444]LogTexture: Display: Building textures: FuzZombie__normal (BC5, 2048X2048)
+[2020.04.30-09.50.54:697][444]LogMaterial: Display: Missing cached shader map for material body_M, compiling. 
+[2020.04.30-09.50.54:762][444]LogMaterial: Display: Material /Game/Enemies/Animations/glass_hair_M_ncl1_1.glass_hair_M_ncl1_1 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.04.30-09.50.54:780][444]LogMaterial: Display: Missing cached shader map for material glass_hair_M_ncl1_1, compiling. 
+[2020.04.30-09.50.55:024][444]LogTexture: Display: Building textures: FuzZombie__diffuse (AutoDXT, 2048X2048)
+[2020.04.30-09.51.00:448][444]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 154
+[2020.04.30-09.51.00:448][444]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 144
+[2020.04.30-09.51.00:448][444]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 134
+[2020.04.30-09.51.00:703][444]LogTexture: Display: Building textures: FuzZombie__specular (AutoDXT, 2048X2048)
+[2020.04.30-09.51.05:521][444]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 124
+[2020.04.30-09.51.05:521][444]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 114
+[2020.04.30-09.51.05:548][444]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for FuzZombie__normal
+[2020.04.30-09.51.05:730][444]LogTexture: Display: Building textures: FuzZombie__normal (BC5, 2048X2048)
+[2020.04.30-09.51.06:447][444]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 104
+[2020.04.30-09.51.06:488][444]LogTexture: Display: Building textures: FuzZombie__diffuse (AutoDXT, 2048X2048)
+[2020.04.30-09.51.11:914][444]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 94
+[2020.04.30-09.51.11:950][444]LogMaterial: Display: Missing cached shader map for material glass_hair_M_ncl1_1, compiling. 
+[2020.04.30-09.51.12:191][444]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2020.04.30-09.51.12:596][444]LogSkeletalMesh: Section 0: 374 vertices, 4 active bones
+[2020.04.30-09.51.12:597][444]LogSkeletalMesh: Section 1: 5611 vertices, 52 active bones
+[2020.04.30-09.51.12:597][444]LogSkeletalMesh: Section 2: 744 vertices, 2 active bones
+[2020.04.30-09.51.12:598][444]LogSkeletalMesh: Section 0: Material=0, 426 triangles
+[2020.04.30-09.51.12:598][444]LogSkeletalMesh: Section 1: Material=1, 8883 triangles
+[2020.04.30-09.51.12:598][444]LogSkeletalMesh: Section 2: Material=2, 536 triangles
+[2020.04.30-09.51.12:662][444]LogSkeletalMesh: Building Skeletal Mesh Zombie_Character...
+[2020.04.30-09.51.12:680][444]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Enemies/Animations/Zombie_Character.Zombie_Character
+[2020.04.30-09.51.12:702][444]LogLinker: Failed to load '/Game/Enemies/Animations/Zombie_Character_Skeleton': Can't find file.
+[2020.04.30-09.51.12:702][444]LogLinker: Failed to load '/Game/Enemies/Animations/Zombie_Character_Skeleton': Can't find file.
+[2020.04.30-09.51.12:739][444]LogLinker: Failed to load '/Game/Enemies/Animations/Zombie_Character_PhysicsAsset': Can't find file.
+[2020.04.30-09.51.12:739][444]LogLinker: Failed to load '/Game/Enemies/Animations/Zombie_Character_PhysicsAsset': Can't find file.
+[2020.04.30-09.51.12:833][444]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-09.51.12:888][444]LogFbx: SortedLinks :(0) Hips
+[2020.04.30-09.51.12:888][444]LogFbx: SortedLinks :(1) Spine
+[2020.04.30-09.51.12:888][444]LogFbx: SortedLinks :(2) Spine1
+[2020.04.30-09.51.12:888][444]LogFbx: SortedLinks :(3) Spine2
+[2020.04.30-09.51.12:888][444]LogFbx: SortedLinks :(4) Neck
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(5) Head
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(8) LeftArm
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(10) LeftHand
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(11) LeftHandPinky1
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(12) LeftHandPinky2
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(13) LeftHandPinky3
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(14) LeftHandPinky4
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(15) LeftHandRing1
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(16) LeftHandRing2
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(17) LeftHandRing3
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(18) LeftHandRing4
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(23) LeftHandIndex1
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(24) LeftHandIndex2
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(25) LeftHandIndex3
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(26) LeftHandIndex4
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(27) LeftHandThumb1
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(28) LeftHandThumb2
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(29) LeftHandThumb3
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(30) LeftHandThumb4
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(31) RightShoulder
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(32) RightArm
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(33) RightForeArm
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(34) RightHand
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(35) RightHandPinky1
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(36) RightHandPinky2
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(37) RightHandPinky3
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(38) RightHandPinky4
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(39) RightHandRing1
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(40) RightHandRing2
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(41) RightHandRing3
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(42) RightHandRing4
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(47) RightHandIndex1
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(48) RightHandIndex2
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(49) RightHandIndex3
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(50) RightHandIndex4
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(51) RightHandThumb1
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(52) RightHandThumb2
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(53) RightHandThumb3
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(54) RightHandThumb4
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(56) LeftLeg
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(57) LeftFoot
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(61) RightLeg
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(62) RightFoot
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(63) RightToeBase
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(64) RightToe_End
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(0) Hips
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(1) Spine
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(2) Spine1
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(3) Spine2
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(4) Neck
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(5) Head
+[2020.04.30-09.51.12:889][444]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(8) LeftArm
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(10) LeftHand
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(11) LeftHandPinky1
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(12) LeftHandPinky2
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(13) LeftHandPinky3
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(14) LeftHandPinky4
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(15) LeftHandRing1
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(16) LeftHandRing2
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(17) LeftHandRing3
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(18) LeftHandRing4
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(23) LeftHandIndex1
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(24) LeftHandIndex2
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(25) LeftHandIndex3
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(26) LeftHandIndex4
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(27) LeftHandThumb1
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(28) LeftHandThumb2
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(29) LeftHandThumb3
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(30) LeftHandThumb4
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(31) RightShoulder
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(32) RightArm
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(33) RightForeArm
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(34) RightHand
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(35) RightHandPinky1
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(36) RightHandPinky2
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(37) RightHandPinky3
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(38) RightHandPinky4
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(39) RightHandRing1
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(40) RightHandRing2
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(41) RightHandRing3
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(42) RightHandRing4
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(47) RightHandIndex1
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(48) RightHandIndex2
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(49) RightHandIndex3
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(50) RightHandIndex4
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(51) RightHandThumb1
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(52) RightHandThumb2
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(53) RightHandThumb3
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(54) RightHandThumb4
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(56) LeftLeg
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(57) LeftFoot
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(61) RightLeg
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(62) RightFoot
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(63) RightToeBase
+[2020.04.30-09.51.12:890][444]LogFbx: SortedLinks :(64) RightToe_End
+[2020.04.30-09.51.12:899][444]LogFbx: Parsing AnimStack Take 001
+[2020.04.30-09.51.12:908][444]LogLinker: Failed to load '/Game/Enemies/Animations/Zombie_Character_Anim_Take_001': Can't find file.
+[2020.04.30-09.51.12:908][444]LogLinker: Failed to load '/Game/Enemies/Animations/Zombie_Character_Anim_Take_001': Can't find file.
+[2020.04.30-09.51.13:214][444]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 138
+[2020.04.30-09.51.13:236][444]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Enemies/Animations/Zombie_Character_Anim_Take_001.Zombie_Character_Anim_Take_001
+[2020.04.30-09.51.13:259][444]LogAnimationCompression: Recompressing (AnimSequence /Game/Enemies/Animations/Zombie_Character_Anim_Take_001.Zombie_Character_Anim_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.30-09.51.13:304][444]LogFbx: Parsing AnimStack mixamo.com
+[2020.04.30-09.51.13:304][444]LogLinker: Failed to load '/Game/Enemies/Animations/Zombie_Character_Anim_mixamo_com': Can't find file.
+[2020.04.30-09.51.13:305][444]LogLinker: Failed to load '/Game/Enemies/Animations/Zombie_Character_Anim_mixamo_com': Can't find file.
+[2020.04.30-09.51.13:490][444]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Enemies/Animations/Zombie_Character_Anim_mixamo_com.Zombie_Character_Anim_mixamo_com
+[2020.04.30-09.51.13:490][444]LogAnimationCompression: Recompressing (AnimSequence /Game/Enemies/Animations/Zombie_Character_Anim_mixamo_com.Zombie_Character_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.30-09.51.13:537][444]LogSkeletalMesh: Building Skeletal Mesh Zombie_Character...
+[2020.04.30-09.51.13:553][444]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Enemies/Animations/Zombie_Character.Zombie_Character
+[2020.04.30-09.51.13:594][444]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.30-09.51.13:595][444]LogSkeletalMesh: Building Skeletal Mesh Zombie_Character...
+[2020.04.30-09.51.13:607][444]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Enemies/Animations/Zombie_Character.Zombie_Character
+[2020.04.30-09.51.13:881][446]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 128
+[2020.04.30-09.51.14:784][493]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 118
+[2020.04.30-09.51.18:495][739]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 108
+[2020.04.30-09.51.19:569][814]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 98
+[2020.04.30-09.51.20:609][884]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 88
+[2020.04.30-09.51.23:621][ 82]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 78
+[2020.04.30-09.51.24:763][159]LogSlate: Window 'Message Log' being destroyed
+[2020.04.30-09.51.24:768][159]LogSlate: Window 'Message Log' being destroyed
+[2020.04.30-09.51.27:535][318]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 68
+[2020.04.30-09.51.27:656][323]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 58
+[2020.04.30-09.51.28:881][373]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 48
+[2020.04.30-09.51.32:790][519]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2020.04.30-09.51.33:965][577]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.04.30-09.51.35:477][632]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2020.04.30-09.51.35:506][633]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.04.30-09.51.38:068][710]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.04.30-09.51.39:701][761]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.04.30-09.51.39:869][766]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.04.30-09.51.40:166][775]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.04.30-09.51.57:651][104]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Uni Stuff\Final Year Project\Games and Game Design Doc\FPSAssets\Zombie\Zombie Idle.fbx)
+[2020.04.30-09.51.57:664][104]LogFbx: Loading FBX Scene from E:\Uni Stuff\Final Year Project\Games and Game Design Doc\FPSAssets\Zombie\Zombie Idle.fbx
+[2020.04.30-09.51.57:693][104]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.30-09.52.02:262][104]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.30-09.52.02:297][104]LogFbx: SortedLinks :(0) Hips
+[2020.04.30-09.52.02:297][104]LogFbx: SortedLinks :(1) Spine
+[2020.04.30-09.52.02:297][104]LogFbx: SortedLinks :(2) Spine1
+[2020.04.30-09.52.02:297][104]LogFbx: SortedLinks :(3) Spine2
+[2020.04.30-09.52.02:297][104]LogFbx: SortedLinks :(4) Neck
+[2020.04.30-09.52.02:297][104]LogFbx: SortedLinks :(5) Head
+[2020.04.30-09.52.02:297][104]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.04.30-09.52.02:297][104]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.04.30-09.52.02:297][104]LogFbx: SortedLinks :(8) LeftArm
+[2020.04.30-09.52.02:297][104]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.04.30-09.52.02:297][104]LogFbx: SortedLinks :(10) LeftHand
+[2020.04.30-09.52.02:297][104]LogFbx: SortedLinks :(11) LeftHandPinky1
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(12) LeftHandPinky2
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(13) LeftHandPinky3
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(14) LeftHandPinky4
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(15) LeftHandRing1
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(16) LeftHandRing2
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(17) LeftHandRing3
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(18) LeftHandRing4
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(23) LeftHandIndex1
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(24) LeftHandIndex2
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(25) LeftHandIndex3
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(26) LeftHandIndex4
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(27) LeftHandThumb1
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(28) LeftHandThumb2
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(29) LeftHandThumb3
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(30) LeftHandThumb4
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(31) RightShoulder
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(32) RightArm
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(33) RightForeArm
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(34) RightHand
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(35) RightHandPinky1
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(36) RightHandPinky2
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(37) RightHandPinky3
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(38) RightHandPinky4
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(39) RightHandRing1
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(40) RightHandRing2
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(41) RightHandRing3
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(42) RightHandRing4
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(47) RightHandIndex1
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(48) RightHandIndex2
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(49) RightHandIndex3
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(50) RightHandIndex4
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(51) RightHandThumb1
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(52) RightHandThumb2
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(53) RightHandThumb3
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(54) RightHandThumb4
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(56) LeftLeg
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(57) LeftFoot
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(61) RightLeg
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(62) RightFoot
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(63) RightToeBase
+[2020.04.30-09.52.02:298][104]LogFbx: SortedLinks :(64) RightToe_End
+[2020.04.30-09.52.02:299][104]LogFbx: Parsing AnimStack mixamo.com
+[2020.04.30-09.52.02:300][104]LogLinker: Failed to load '/Game/Enemies/Animations/Zombie_Idle': Can't find file.
+[2020.04.30-09.52.02:301][104]LogLinker: Failed to load '/Game/Enemies/Animations/Zombie_Idle': Can't find file.
+[2020.04.30-09.52.02:867][104]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Enemies/Animations/Zombie_Idle.Zombie_Idle
+[2020.04.30-09.52.02:867][104]LogAnimationCompression: Recompressing (AnimSequence /Game/Enemies/Animations/Zombie_Idle.Zombie_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.30-09.52.02:942][104]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\Uni Stuff\Final Year Project\Games and Game Design Doc\FPSAssets\Zombie\Zombie Running.fbx)
+[2020.04.30-09.52.02:954][104]LogFbx: Loading FBX Scene from E:\Uni Stuff\Final Year Project\Games and Game Design Doc\FPSAssets\Zombie\Zombie Running.fbx
+[2020.04.30-09.52.02:980][104]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(0) Hips
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(1) Spine
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(2) Spine1
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(3) Spine2
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(4) Neck
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(5) Head
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(8) LeftArm
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(10) LeftHand
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(11) LeftHandPinky1
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(12) LeftHandPinky2
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(13) LeftHandPinky3
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(14) LeftHandPinky4
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(15) LeftHandRing1
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(16) LeftHandRing2
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(17) LeftHandRing3
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(18) LeftHandRing4
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(23) LeftHandIndex1
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(24) LeftHandIndex2
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(25) LeftHandIndex3
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(26) LeftHandIndex4
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(27) LeftHandThumb1
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(28) LeftHandThumb2
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(29) LeftHandThumb3
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(30) LeftHandThumb4
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(31) RightShoulder
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(32) RightArm
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(33) RightForeArm
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(34) RightHand
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(35) RightHandPinky1
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(36) RightHandPinky2
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(37) RightHandPinky3
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(38) RightHandPinky4
+[2020.04.30-09.52.02:984][104]LogFbx: SortedLinks :(39) RightHandRing1
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(40) RightHandRing2
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(41) RightHandRing3
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(42) RightHandRing4
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(47) RightHandIndex1
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(48) RightHandIndex2
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(49) RightHandIndex3
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(50) RightHandIndex4
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(51) RightHandThumb1
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(52) RightHandThumb2
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(53) RightHandThumb3
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(54) RightHandThumb4
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(56) LeftLeg
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(57) LeftFoot
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(61) RightLeg
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(62) RightFoot
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(63) RightToeBase
+[2020.04.30-09.52.02:985][104]LogFbx: SortedLinks :(64) RightToe_End
+[2020.04.30-09.52.02:985][104]LogFbx: Parsing AnimStack mixamo.com
+[2020.04.30-09.52.02:986][104]LogLinker: Failed to load '/Game/Enemies/Animations/Zombie_Running': Can't find file.
+[2020.04.30-09.52.02:986][104]LogLinker: Failed to load '/Game/Enemies/Animations/Zombie_Running': Can't find file.
+[2020.04.30-09.52.03:189][104]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Enemies/Animations/Zombie_Running.Zombie_Running
+[2020.04.30-09.52.03:189][104]LogAnimationCompression: Recompressing (AnimSequence /Game/Enemies/Animations/Zombie_Running.Zombie_Running) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.30-09.52.03:215][104]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\Uni Stuff\Final Year Project\Games and Game Design Doc\FPSAssets\Zombie\Zombie Walking.fbx)
+[2020.04.30-09.52.03:226][104]LogFbx: Loading FBX Scene from E:\Uni Stuff\Final Year Project\Games and Game Design Doc\FPSAssets\Zombie\Zombie Walking.fbx
+[2020.04.30-09.52.03:251][104]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(0) Hips
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(1) Spine
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(2) Spine1
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(3) Spine2
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(4) Neck
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(5) Head
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(8) LeftArm
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(10) LeftHand
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(11) LeftHandPinky1
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(12) LeftHandPinky2
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(13) LeftHandPinky3
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(14) LeftHandPinky4
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(15) LeftHandRing1
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(16) LeftHandRing2
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(17) LeftHandRing3
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(18) LeftHandRing4
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(23) LeftHandIndex1
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(24) LeftHandIndex2
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(25) LeftHandIndex3
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(26) LeftHandIndex4
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(27) LeftHandThumb1
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(28) LeftHandThumb2
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(29) LeftHandThumb3
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(30) LeftHandThumb4
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(31) RightShoulder
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(32) RightArm
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(33) RightForeArm
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(34) RightHand
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(35) RightHandPinky1
+[2020.04.30-09.52.03:256][104]LogFbx: SortedLinks :(36) RightHandPinky2
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(37) RightHandPinky3
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(38) RightHandPinky4
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(39) RightHandRing1
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(40) RightHandRing2
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(41) RightHandRing3
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(42) RightHandRing4
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(47) RightHandIndex1
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(48) RightHandIndex2
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(49) RightHandIndex3
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(50) RightHandIndex4
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(51) RightHandThumb1
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(52) RightHandThumb2
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(53) RightHandThumb3
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(54) RightHandThumb4
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(56) LeftLeg
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(57) LeftFoot
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(61) RightLeg
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(62) RightFoot
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(63) RightToeBase
+[2020.04.30-09.52.03:257][104]LogFbx: SortedLinks :(64) RightToe_End
+[2020.04.30-09.52.03:257][104]LogFbx: Parsing AnimStack mixamo.com
+[2020.04.30-09.52.03:257][104]LogLinker: Failed to load '/Game/Enemies/Animations/Zombie_Walking': Can't find file.
+[2020.04.30-09.52.03:258][104]LogLinker: Failed to load '/Game/Enemies/Animations/Zombie_Walking': Can't find file.
+[2020.04.30-09.52.03:492][104]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Enemies/Animations/Zombie_Walking.Zombie_Walking
+[2020.04.30-09.52.03:493][104]LogAnimationCompression: Recompressing (AnimSequence /Game/Enemies/Animations/Zombie_Walking.Zombie_Walking) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.30-09.52.03:533][104]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\Uni Stuff\Final Year Project\Games and Game Design Doc\FPSAssets\Zombie\Zombie Attack.fbx)
+[2020.04.30-09.52.03:544][104]LogFbx: Loading FBX Scene from E:\Uni Stuff\Final Year Project\Games and Game Design Doc\FPSAssets\Zombie\Zombie Attack.fbx
+[2020.04.30-09.52.03:570][104]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(0) Hips
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(1) Spine
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(2) Spine1
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(3) Spine2
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(4) Neck
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(5) Head
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(8) LeftArm
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(10) LeftHand
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(11) LeftHandPinky1
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(12) LeftHandPinky2
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(13) LeftHandPinky3
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(14) LeftHandPinky4
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(15) LeftHandRing1
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(16) LeftHandRing2
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(17) LeftHandRing3
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(18) LeftHandRing4
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(23) LeftHandIndex1
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(24) LeftHandIndex2
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(25) LeftHandIndex3
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(26) LeftHandIndex4
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(27) LeftHandThumb1
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(28) LeftHandThumb2
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(29) LeftHandThumb3
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(30) LeftHandThumb4
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(31) RightShoulder
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(32) RightArm
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(33) RightForeArm
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(34) RightHand
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(35) RightHandPinky1
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(36) RightHandPinky2
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(37) RightHandPinky3
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(38) RightHandPinky4
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(39) RightHandRing1
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(40) RightHandRing2
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(41) RightHandRing3
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(42) RightHandRing4
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(47) RightHandIndex1
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(48) RightHandIndex2
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(49) RightHandIndex3
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(50) RightHandIndex4
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(51) RightHandThumb1
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(52) RightHandThumb2
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(53) RightHandThumb3
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(54) RightHandThumb4
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(56) LeftLeg
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(57) LeftFoot
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.04.30-09.52.03:575][104]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.04.30-09.52.03:576][104]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.04.30-09.52.03:576][104]LogFbx: SortedLinks :(61) RightLeg
+[2020.04.30-09.52.03:576][104]LogFbx: SortedLinks :(62) RightFoot
+[2020.04.30-09.52.03:576][104]LogFbx: SortedLinks :(63) RightToeBase
+[2020.04.30-09.52.03:576][104]LogFbx: SortedLinks :(64) RightToe_End
+[2020.04.30-09.52.03:576][104]LogFbx: Parsing AnimStack mixamo.com
+[2020.04.30-09.52.03:576][104]LogLinker: Failed to load '/Game/Enemies/Animations/Zombie_Attack': Can't find file.
+[2020.04.30-09.52.03:576][104]LogLinker: Failed to load '/Game/Enemies/Animations/Zombie_Attack': Can't find file.
+[2020.04.30-09.52.04:957][104]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Enemies/Animations/Zombie_Attack.Zombie_Attack
+[2020.04.30-09.52.04:957][104]LogAnimationCompression: Recompressing (AnimSequence /Game/Enemies/Animations/Zombie_Attack.Zombie_Attack) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.30-09.52.31:663][726]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Enemies/Animations/Zombie_Character.Zombie_Character
+[2020.04.30-09.52.31:879][726]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2020.04.30-09.52.32:908][726]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.30-09.52.33:044][726]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2020.04.30-09.52.33:366][726]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.30-09.52.34:749][726]LogRenderer: Reallocating scene render targets to support 1208x884 Format 10 NumSamples 1 (Frame:1).
+[2020.04.30-09.53.18:313][564]LogSkeletalMesh: Building Skeletal Mesh Zombie_Character...
+[2020.04.30-09.53.18:325][564]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Enemies/Animations/Zombie_Character.Zombie_Character
+[2020.04.30-09.53.28:251][ 65]LogSkeletalMesh: Building Skeletal Mesh Zombie_Character...
+[2020.04.30-09.53.28:264][ 65]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Enemies/Animations/Zombie_Character.Zombie_Character
+[2020.04.30-09.53.31:358][245]LogSkeletalMesh: Building Skeletal Mesh Zombie_Character...
+[2020.04.30-09.53.31:370][245]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Enemies/Animations/Zombie_Character.Zombie_Character
+[2020.04.30-09.53.50:935][  5]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Zombie_CharacterD825798F4E57283C958BCF9D0D9ADA89.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Content/Enemies/Animations/Zombie_Character.uasset'
+[2020.04.30-09.53.52:223][ 62]LogSlate: Window 'Zombie_Character' being destroyed
+[2020.04.30-09.53.52:232][ 62]LogSlate: Window 'Zombie_Character' being destroyed
+[2020.04.30-09.53.52:232][ 62]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-09.54.54:436][446]LogSlate: Window 'Pick Skeleton' being destroyed
+[2020.04.30-09.55.19:680][700]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/EnemyWalkRun_BSEAC0862844F0D80F585FD09F130C35E6.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Content/Enemies/Animations/EnemyWalkRun_BS.uasset'
+[2020.04.30-09.55.20:106][700]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2020.04.30-09.55.20:238][700]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2020.04.30-09.55.20:280][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.04.30-09.56.04:527][968]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Enemies/Animations/EnemyWalkRun_BS.EnemyWalkRun_BS
+[2020.04.30-09.56.04:602][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.30-09.56.04:750][968]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.30-09.56.05:517][968]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.30-09.58.22:952][896]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/EnemyWalkRun_BS5B48FE154A875848FCC2F4B3D565962E.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Content/Enemies/Animations/EnemyWalkRun_BS.uasset'
+[2020.04.30-09.58.23:922][951]LogSlate: Window 'EnemyWalkRun_BS' being destroyed
+[2020.04.30-09.58.23:927][951]LogSlate: Window 'EnemyWalkRun_BS' being destroyed
+[2020.04.30-09.58.23:952][951]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-09.58.24:340][951]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-09.58.50:356][217]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.04.30-09.58.52:338][217]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.30-10.00.20:894][217]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Animations/EnemyAnim_BP.EnemyAnim_BP
+[2020.04.30-10.00.25:787][217]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.04.30-10.00.39:334][329]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.04.30-10.00.45:157][329]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2020.04.30-10.01.09:305][498]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.04.30-10.01.17:279][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-10.01.21:956][121]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.04.30-10.01.41:780][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-10.01.47:488][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-10.01.47:534][170]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.04.30-10.01.48:127][170]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.04.30-10.01.49:999][244]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.04.30-10.01.50:007][244]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.04.30-10.01.50:029][244]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-10.01.54:614][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-10.02.26:132][  6]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.04.30-10.02.27:002][  6]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/ThirdPersonExampleMap_Auto2725745934FAF5585568BD6BE121E5557.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2020.04.30-10.02.27:280][  6]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.201
+[2020.04.30-10.02.27:280][  6]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.201
+[2020.04.30-10.02.27:289][  6]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/Enemy_BP] ([1] browsable assets)...
+[2020.04.30-10.02.27:320][  6]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/Enemy_BP.Enemy_BP]
+[2020.04.30-10.02.27:320][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Enemy_BP]
+[2020.04.30-10.02.27:712][  6]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Enemy_BP_Auto29A24A9944568D73FB4E5AB8D7CAAD40C.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Autosaves/Game/Enemies/Enemy_BP_Auto2.uasset'
+[2020.04.30-10.02.27:732][  6]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.04.30-10.02.27:762][  6]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.04.30-10.02.27:763][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2020.04.30-10.02.28:216][  6]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/ThirdPersonCharacter_Auto22924CBD844019F09620C40BA1588D7BE.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2020.04.30-10.02.28:241][  6]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/Animations/Zombie_Walking] ([1] browsable assets)...
+[2020.04.30-10.02.28:298][  6]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Enemies/Animations/Zombie_Walking.Zombie_Walking]
+[2020.04.30-10.02.28:298][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Animations/Zombie_Walking]
+[2020.04.30-10.02.28:461][  6]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Zombie_Walking_Auto206CBD6CA49D5D90DC25C7C8801622E24.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Autosaves/Game/Enemies/Animations/Zombie_Walking_Auto2.uasset'
+[2020.04.30-10.02.28:465][  6]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/Animations/Zombie_Attack] ([1] browsable assets)...
+[2020.04.30-10.02.28:500][  6]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Enemies/Animations/Zombie_Attack.Zombie_Attack]
+[2020.04.30-10.02.28:500][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Animations/Zombie_Attack]
+[2020.04.30-10.02.28:690][  6]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Zombie_Attack_Auto2F54FCB3F4E7273E7B4D379A13AB61E44.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Autosaves/Game/Enemies/Animations/Zombie_Attack_Auto2.uasset'
+[2020.04.30-10.02.28:696][  6]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/Animations/Zombie_Idle] ([1] browsable assets)...
+[2020.04.30-10.02.28:732][  6]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Enemies/Animations/Zombie_Idle.Zombie_Idle]
+[2020.04.30-10.02.28:732][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Animations/Zombie_Idle]
+[2020.04.30-10.02.28:808][  6]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Zombie_Idle_Auto2DE8A75A24520E691FED757857A049871.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Autosaves/Game/Enemies/Animations/Zombie_Idle_Auto2.uasset'
+[2020.04.30-10.02.28:813][  6]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/Animations/Zombie_Running] ([1] browsable assets)...
+[2020.04.30-10.02.28:856][  6]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Enemies/Animations/Zombie_Running.Zombie_Running]
+[2020.04.30-10.02.28:856][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Animations/Zombie_Running]
+[2020.04.30-10.02.28:965][  6]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Zombie_Running_Auto22C6DB941410126BD69599C94033E5E9C.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Autosaves/Game/Enemies/Animations/Zombie_Running_Auto2.uasset'
+[2020.04.30-10.02.28:968][  6]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/Animations/glass_hair_M] ([1] browsable assets)...
+[2020.04.30-10.02.28:989][  6]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Enemies/Animations/glass_hair_M.glass_hair_M]
+[2020.04.30-10.02.28:989][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Animations/glass_hair_M]
+[2020.04.30-10.02.29:066][  6]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/glass_hair_M_Auto2094CE5D8498B334EB53D4FA3AD34A569.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Autosaves/Game/Enemies/Animations/glass_hair_M_Auto2.uasset'
+[2020.04.30-10.02.29:069][  6]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/Animations/FuzZombie__diffuse] ([1] browsable assets)...
+[2020.04.30-10.02.29:080][  6]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Enemies/Animations/FuzZombie__diffuse.FuzZombie__diffuse]
+[2020.04.30-10.02.29:080][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Animations/FuzZombie__diffuse]
+[2020.04.30-10.02.29:700][  6]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/FuzZombie__diffuse_Auto290C0AE95417CBF42C2F2AB9F8ABAF5B6.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Autosaves/Game/Enemies/Animations/FuzZombie__diffuse_Auto2.uasset'
+[2020.04.30-10.02.29:704][  6]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/Animations/FuzZombie__specular] ([1] browsable assets)...
+[2020.04.30-10.02.29:717][  6]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Enemies/Animations/FuzZombie__specular.FuzZombie__specular]
+[2020.04.30-10.02.29:717][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Animations/FuzZombie__specular]
+[2020.04.30-10.02.30:275][  6]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/FuzZombie__specular_Auto29EB0061F4C4F74737824D4AEBFDC89AD.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Autosaves/Game/Enemies/Animations/FuzZombie__specular_Auto2.uasset'
+[2020.04.30-10.02.30:282][  6]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/Animations/FuzZombie__normal] ([1] browsable assets)...
+[2020.04.30-10.02.30:302][  6]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Enemies/Animations/FuzZombie__normal.FuzZombie__normal]
+[2020.04.30-10.02.30:302][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Animations/FuzZombie__normal]
+[2020.04.30-10.02.30:944][  6]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/FuzZombie__normal_Auto26BEB33BA42E2CDF704567399D5148F80.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Autosaves/Game/Enemies/Animations/FuzZombie__normal_Auto2.uasset'
+[2020.04.30-10.02.30:950][  6]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/Animations/body_M] ([1] browsable assets)...
+[2020.04.30-10.02.30:984][  6]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Enemies/Animations/body_M.body_M]
+[2020.04.30-10.02.30:984][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Animations/body_M]
+[2020.04.30-10.02.31:081][  6]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/body_M_Auto2288143DF46AD1BD53682DD9D868A0950.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Autosaves/Game/Enemies/Animations/body_M_Auto2.uasset'
+[2020.04.30-10.02.31:083][  6]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/Animations/glass_hair_M_ncl1_1] ([1] browsable assets)...
+[2020.04.30-10.02.31:122][  6]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Enemies/Animations/glass_hair_M_ncl1_1.glass_hair_M_ncl1_1]
+[2020.04.30-10.02.31:122][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Animations/glass_hair_M_ncl1_1]
+[2020.04.30-10.02.31:190][  6]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/glass_hair_M_ncl1_1_Auto2D42033E44C2F5C596EFA848D38A85A0F.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Autosaves/Game/Enemies/Animations/glass_hair_M_ncl1_1_Auto2.uasset'
+[2020.04.30-10.02.31:192][  6]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/Animations/Zombie_Character_Skeleton] ([1] browsable assets)...
+[2020.04.30-10.02.31:192][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Animations/Zombie_Character_Skeleton]
+[2020.04.30-10.02.31:278][  6]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Zombie_Character_Skeleton_Auto27CE51A96456A900F89F4D2B739816EEF.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Autosaves/Game/Enemies/Animations/Zombie_Character_Skeleton_Auto2.uasset'
+[2020.04.30-10.02.31:284][  6]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/Animations/Zombie_Character_PhysicsAsset] ([1] browsable assets)...
+[2020.04.30-10.02.31:333][  6]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Enemies/Animations/Zombie_Character_PhysicsAsset.Zombie_Character_PhysicsAsset]
+[2020.04.30-10.02.31:333][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Animations/Zombie_Character_PhysicsAsset]
+[2020.04.30-10.02.31:528][  6]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Zombie_Character_PhysicsAsset_Au92985E65458ADD5EE774D2BE41746A2D.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Autosaves/Game/Enemies/Animations/Zombie_Character_PhysicsAsset_Auto2.uasset'
+[2020.04.30-10.02.31:535][  6]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/Animations/Zombie_Character_Anim_Take_001] ([1] browsable assets)...
+[2020.04.30-10.02.31:577][  6]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Enemies/Animations/Zombie_Character_Anim_Take_001.Zombie_Character_Anim_Take_001]
+[2020.04.30-10.02.31:577][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Animations/Zombie_Character_Anim_Take_001]
+[2020.04.30-10.02.31:693][  6]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Zombie_Character_Anim_Take_001_AFD35BCF04600FE574E30AD807667F34A.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Autosaves/Game/Enemies/Animations/Zombie_Character_Anim_Take_001_Auto2.uasset'
+[2020.04.30-10.02.31:696][  6]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/Animations/Zombie_Character_Anim_mixamo_com] ([1] browsable assets)...
+[2020.04.30-10.02.31:731][  6]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Enemies/Animations/Zombie_Character_Anim_mixamo_com.Zombie_Character_Anim_mixamo_com]
+[2020.04.30-10.02.31:731][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Animations/Zombie_Character_Anim_mixamo_com]
+[2020.04.30-10.02.31:830][  6]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Zombie_Character_Anim_mixamo_com4FCF86E24DFB1C799E7F1E9FEADB6B3A.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Autosaves/Game/Enemies/Animations/Zombie_Character_Anim_mixamo_com_Auto2.uasset'
+[2020.04.30-10.02.31:835][  6]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/Animations/EnemyAnim_BP] ([1] browsable assets)...
+[2020.04.30-10.02.31:854][  6]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Enemies/Animations/EnemyAnim_BP.EnemyAnim_BP]
+[2020.04.30-10.02.31:854][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Animations/EnemyAnim_BP]
+[2020.04.30-10.02.32:017][  6]LogSavePackage: Moving '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/EnemyAnim_BP_Auto2860E1F8744E8173C57D2CB9799DFDC0D.tmp' to '../../../../../Uni Stuff/Final Year Project/Games and Game Design Doc/Non-diegetic game segment/NonDiegetic/Saved/Autosaves/Game/Enemies/Animations/EnemyAnim_BP_Auto2.uasset'
+[2020.04.30-10.02.32:020][  6]LogFileHelpers: Auto-saving content packages took 4.733
+[2020.04.30-10.03.14:783][203]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Enemies/Animations/EnemyAnim_BP.EnemyAnim_BP
+[2020.04.30-10.03.14:826][203]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.30-10.03.15:195][203]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.30-10.03.15:792][203]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.30-10.03.53:565][267]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ThirdPersonBP/Animations/ThirdPersonAnim_BP.ThirdPersonAnim_BP
+[2020.04.30-10.03.53:600][267]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.30-10.03.53:946][267]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.30-10.03.54:314][267]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.30-10.05.26:906][911]LogUObjectBase: Warning: Object is not registered
+[2020.04.30-10.05.26:936][911]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.30-10.05.29:847][911]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.911 s
+[2020.04.30-10.05.29:847][911]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.30-10.05.29:847][911]LogOutputDevice: Error: 
+[2020.04.30-10.05.29:848][911]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2020.04.30-10.05.29:848][911]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.04.30-10.05.29:848][911]LogOutputDevice: Error: Stack: 
+[2020.04.30-10.05.29:848][911]LogOutputDevice: Error: [Callstack] 0x00007fff990a5279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.30-10.05.29:848][911]LogOutputDevice: Error: [Callstack] 0x00007fff988c7fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.30-10.05.29:848][911]LogOutputDevice: Error: [Callstack] 0x00007fff988d622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.30-10.05.29:848][911]LogOutputDevice: Error: [Callstack] 0x00007fff96106c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.04.30-10.05.29:848][911]LogOutputDevice: Error: [Callstack] 0x00007fff94b24dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.30-10.05.29:848][911]LogOutputDevice: Error: [Callstack] 0x00007fff94ade057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.30-10.05.29:848][911]LogOutputDevice: Error: [Callstack] 0x00007fffcfa2d644 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.30-10.05.29:848][911]LogOutputDevice: Error: [Callstack] 0x00007fffcfc1c533 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.30-10.05.29:848][911]LogOutputDevice: Error: [Callstack] 0x00007fffcfa7922b UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.30-10.05.29:848][911]LogOutputDevice: Error: [Callstack] 0x00007fffcfa55738 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.30-10.05.29:848][911]LogOutputDevice: Error: [Callstack] 0x00007fffcfa49a1e UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.30-10.05.29:848][911]LogOutputDevice: Error: [Callstack] 0x00007fffddfe4c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.30-10.05.29:848][911]LogOutputDevice: Error: [Callstack] 0x00007fffddfd26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.30-10.05.29:848][911]LogOutputDevice: Error: [Callstack] 0x00007fffddfe7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.30-10.05.29:848][911]LogOutputDevice: Error: [Callstack] 0x00007fffddfcedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.30-10.05.29:849][911]LogOutputDevice: Error: [Callstack] 0x00007ff811a75c0d USER32.dll!UnknownFunction []
+[2020.04.30-10.05.29:849][911]LogOutputDevice: Error: [Callstack] 0x00007ff811a75602 USER32.dll!UnknownFunction []
+[2020.04.30-10.05.29:849][911]LogOutputDevice: Error: [Callstack] 0x00007fffddfe88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.30-10.05.29:849][911]LogOutputDevice: Error: [Callstack] 0x00007ff7c1a06980 UE4Editor.exe!UnknownFunction []
+[2020.04.30-10.05.29:849][911]LogOutputDevice: Error: [Callstack] 0x00007ff7c1a1a91c UE4Editor.exe!UnknownFunction []
+[2020.04.30-10.05.29:849][911]LogOutputDevice: Error: [Callstack] 0x00007ff7c1a1a9fa UE4Editor.exe!UnknownFunction []
+[2020.04.30-10.05.29:849][911]LogOutputDevice: Error: [Callstack] 0x00007ff7c1a2b92c UE4Editor.exe!UnknownFunction []
+[2020.04.30-10.05.29:849][911]LogOutputDevice: Error: [Callstack] 0x00007ff7c1a2e60e UE4Editor.exe!UnknownFunction []
+[2020.04.30-10.05.29:849][911]LogOutputDevice: Error: [Callstack] 0x00007ff812257bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.30-10.05.29:849][911]LogOutputDevice: Error: [Callstack] 0x00007ff81240ce51 ntdll.dll!UnknownFunction []
+[2020.04.30-10.05.29:849][911]LogOutputDevice: Error: 
+[2020.04.30-10.05.29:886][911]LogStats:                SubmitErrorReport -  0.000 s
